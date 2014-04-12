@@ -17,3 +17,4 @@ Follow our meetups at [meetup]() ...add link
 
 # History
 * Group started and pulled together by Husein. First meetup 12 April 2014 at [House4Hack](http://www.house4hack.co.za)
+* A record of the post that started it all can be found [here](https://groups.google.com/forum/#!topic/gpugsa/qZEy-ptVxac)
