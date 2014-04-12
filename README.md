@@ -11,6 +11,8 @@ Follow our meetups at [meetup]() ...add link
 
 Edit this page [here](https://github.com/jozipython/webpage/edit/master/README.md)
 
+# Talk ideas
+Submit a pull request for talk ideas [here](https://github.com/jozipython/talk_ideas/blob/master/README.md)
 
 # Past Talks
 
