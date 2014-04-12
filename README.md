@@ -1,7 +1,7 @@
 # Welcome to the Jozi Python User Group
 
 
-Our web page is [here](http://jozipython.github.io/webpage)_
+Our web page is [here](http://jozipython.github.io/webpage)
 
 You can find our Github repo [here](https://github.com/jozipython)
 
