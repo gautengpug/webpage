@@ -1,4 +1,12 @@
-webpage
-=======
+# Welcome to the Jozi Python User Group
 
-This could be the jozipython landing page... use the gh-pages branch to publish
+
+
+
+Our web page is [here]()
+
+You can find our [Github repo here[https://github.com/jozipython)
+
+
+Our google group is [here](https://groups.google.com/forum/#!forum/gpugsa)
+
