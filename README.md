@@ -1,8 +1,10 @@
 # Welcome to the Gauteng Python User Group
 
 
-### >>>>  NEXT Get Togehter - [17 May 2014](https://github.com/gautengpug/planning/blob/master/17_May_2014.md)
+### >>>>  NEXT MEETUP - [17 May 2014](https://github.com/gautengpug/planning/blob/master/17_May_2014.md)
     
+
+### General Info
 
 Our web page is [here](http://gautengpug.github.io/webpage)
 
