@@ -1,6 +1,9 @@
 # Welcome to the Gauteng Python User Group
 
 
+    NEXT Get Togehter - [17 May 2014](https://github.com/gautengpug/planning/blob/master/17_May_2014.md)
+    
+
 Our web page is [here](http://gautengpug.github.io/webpage)
 
 You can find our GitHub repo [here](https://github.com/gautengpug)
@@ -20,7 +23,7 @@ Submit a pull request for talk ideas [here](https://github.com/gautengpug/talk_i
 
 
 # Past Talks
-* We are planning a meetup for [17 May 2014[(https://github.com/gautengpug/planning/blob/master/17_May_2014.md)
+* We are planning a meetup for [17 May 2014](https://github.com/gautengpug/planning/blob/master/17_May_2014.md)
 * 12 April 2014, Tobie, [IPython](https://github.com/gautengpug/ipythontalk_12Apr2014)
 * 12 April 2014, Iwan,  [Reahl]()  ...TBD
 
