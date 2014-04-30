@@ -14,7 +14,7 @@ Our Google Group is [here](https://groups.google.com/forum/#!forum/gpugsa)
 
 Follow our meetups at [meetup]() ...TBD
 
-Edit this page [here](https://github.com/gautengpug/webpage/edit/master/README.md)
+Edit this page [here](https://github.com/gautengpug/webpage/edit/master/README.md) and the follow the instructions [HERE](https://help.github.com/articles/creating-pages-with-the-automatic-generator) to publish the site. We can talk about using a static page generator later. This will mean we can work directly in the gh-pages branch of thi repo were the webversion essentially is sitting at the moment.
 
 
 # Talk ideas
