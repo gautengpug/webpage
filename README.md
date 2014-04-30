@@ -14,8 +14,6 @@ Edit this page [here](https://github.com/gautengpug/webpage/edit/master/README.m
 
 # Talk ideas
 
-See topics here [Topic list](http://gautengpug.github.io/webpage/topic_list.html)
-
 Submit a pull request for talk ideas [here](https://github.com/gautengpug/talk_ideas/blob/master/README.md)
 
 
